@@ -15,6 +15,7 @@ I'm a Computer and Information Science student at Park University with a passion
 - **Other:** Microsoft Excel, Word, Outlook, and PowerPoint
 
 ## Projects
+- [Prime Number Game](https://github.com/anorton312/prime_number_game)
 
 
 ## Links
