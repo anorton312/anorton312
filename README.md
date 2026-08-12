@@ -1,16 +1,21 @@
-## Hi there 👋
+# About Me
 
-<!--
-**anorton312/anorton312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Name:** Abigail Norton 
+**Location:** Oak Grove, Missouri
+**GitHub:** [@anorton312](https://github.com/anorton312)  
+**Email:** anorton31205@gmail.com
 
-Here are some ideas to get you started:
+## About
+I'm a Computer and Information Science student at Park University with a passion for building software and solving problems through code. I enjoy working with Python, C++, and web technologies (HTML/CSS), and I'm currently focused on growing my skills in software engineering, web development, and data management. Always learning, always building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+**Languages:** HTML, CSS, Python, C++
+**Tools:** GitLab, GitHub, VS Code
+**AI Tools:** ChatGPT, Claude
+**Other:** Microsoft Excel, Word, Outlook, and PowerPoint
+
+## Projects
+
+
+## Links
+- [LinkedIn](https://www.linkedin.com/in/abigail-norton-5a82b3319/)  
