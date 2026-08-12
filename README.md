@@ -16,7 +16,9 @@ I'm a Computer and Information Science student at Park University with a passion
 
 ## Projects
 - [Prime Number Game](https://github.com/anorton312/prime_number_game)
-
+- [APY Calculator](https://github.com/anorton312/apy_calculator)
+- [Temperature Converter](https://github.com/anorton312/temperature_converter)
+- [Quart Calculator](https://github.com/anorton312/quart_calculator) 
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/abigail-norton-5a82b3319/)  
